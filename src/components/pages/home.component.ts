@@ -162,7 +162,7 @@ import { RouterLink } from '@angular/router';
       <section class="bg-slate-900 text-white p-10 text-center rounded-sm shadow-xl shadow-slate-200/50">
         <h2 class="text-2xl font-bold mb-4 tracking-tight">Seu acesso está ativo.</h2>
         <p class="text-slate-300 mb-8 max-w-lg mx-auto">
-          Este manual é um documento vivo. Use a barra de navegação para explorar os módulos ou comece pelo índice completo.
+          Use a barra de navegação para explorar os módulos ou comece pelo índice completo.
         </p>
         <a routerLink="/course" class="inline-block bg-white text-slate-900 font-bold py-4 px-8 hover:bg-pink-50 transition-colors uppercase tracking-widest text-sm">
           Acessar o Índice do Manual
